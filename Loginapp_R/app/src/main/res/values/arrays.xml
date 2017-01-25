@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="typ_zgloszenia">
+        <item>Uszkodzenie linii</item>
+        <item>Uszkodzenie </item>
+        <item>Inne</item>
+
+        </string-array>
+    <string-array name="lokalizacja">
+        <item>Skibówki</item>
+        <item>Gliwice</item>
+        <item>Katowice</item>
+        <item>Tychy</item>
+        <item>Bytom</item>
+        </string-array>
+    <string-array name="zasob">
+        <item>Słup 32</item>
+        <item>Słup 21</item>
+        <item>Słup 44</item>
+        <item>Słup 55</item>
+        <item>Słup 66</item>
+    </string-array>
+</resources> 
